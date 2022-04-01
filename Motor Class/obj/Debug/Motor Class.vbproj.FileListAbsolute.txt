@@ -1,0 +1,13 @@
+C:\Users\nicho\Desktop\Visual BASICS\Motor Class\Motor Class\bin\Debug\Motor Class.exe.config
+C:\Users\nicho\Desktop\Visual BASICS\Motor Class\Motor Class\bin\Debug\Motor Class.exe
+C:\Users\nicho\Desktop\Visual BASICS\Motor Class\Motor Class\bin\Debug\Motor Class.pdb
+C:\Users\nicho\Desktop\Visual BASICS\Motor Class\Motor Class\bin\Debug\Motor Class.xml
+C:\Users\nicho\Desktop\Visual BASICS\Motor Class\Motor Class\obj\Debug\Motor Class.vbprojAssemblyReference.cache
+C:\Users\nicho\Desktop\Visual BASICS\Motor Class\Motor Class\obj\Debug\WindowsApp2.AddForm.resources
+C:\Users\nicho\Desktop\Visual BASICS\Motor Class\Motor Class\obj\Debug\WindowsApp2.MainForm.resources
+C:\Users\nicho\Desktop\Visual BASICS\Motor Class\Motor Class\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\nicho\Desktop\Visual BASICS\Motor Class\Motor Class\obj\Debug\Motor Class.vbproj.GenerateResource.cache
+C:\Users\nicho\Desktop\Visual BASICS\Motor Class\Motor Class\obj\Debug\Motor Class.vbproj.CoreCompileInputs.cache
+C:\Users\nicho\Desktop\Visual BASICS\Motor Class\Motor Class\obj\Debug\Motor Class.exe
+C:\Users\nicho\Desktop\Visual BASICS\Motor Class\Motor Class\obj\Debug\Motor Class.xml
+C:\Users\nicho\Desktop\Visual BASICS\Motor Class\Motor Class\obj\Debug\Motor Class.pdb
